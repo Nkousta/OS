@@ -1,0 +1,18 @@
+/home/nkoustaa/Lab05
+example4
+example4.c
+log
+-bash: cd: /path/to/directory: No such file or directory
+cp: cannot stat 'source.txt': No such file or directory
+mv: cannot stat 'oldname.txt': No such file or directory
+rm: cannot remove 'file_to_delete.txt': No such file or directory
+
+Command 'find.' not found, did you mean:
+
+  command 'find' from deb findutils (4.7.0-1ubuntu1)
+  command 'findv' from deb polylib-utils (5.22.5-4+dfsg)
+  command 'findg' from deb ncl-ncarg (6.6.2-1build4)
+
+Try: apt install <deb name>
+
+cat: file.txt: No such file or directory
